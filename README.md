@@ -51,17 +51,7 @@ npm run dev
 >  或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
 
 >  开发环境 macOS 10.12.3  Chrome 56  nodejs 6.10.0
-
->  特别感谢辰妹子[@bailichen](https://github.com/bailichen)，在百忙之中抽出时间和我一起完成了这个项目，辛苦了🌹
-
->  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
-
->  项目交流群：528447162(QQ)
-
->  推荐一个 react + redux 开源项目，对react感兴趣的朋友赶紧去看看。[地址在这里](https://github.com/bailicangdu/react-pxq)
-
->  另外一个 vue2 + vuex 的入门项目，比当前的项目简单很多，非常适合入门练习。[地址在这里](https://github.com/bailicangdu/vue2-happyfri)
-
+  
 
 ## 关于 数据接口 的说明🤔
 
@@ -73,13 +63,9 @@ npm run dev
 
 # 效果演示
 
-[查看demo请戳这里](http://cangdu.org:8001/)（请用chrome手机模式预览）
+[查看demo请戳这里](http://127.0.0.1:8001/)（请用chrome手机模式预览）
 
-### 移动端扫描下方二维码
-
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/ewm.png" width="250" height="250"/>
-
-
+ 
 
 # 目标功能
 - [x] 定位功能 -- 完成
@@ -124,21 +110,7 @@ npm run dev
 
 6、项目已经完成，共45个页面。
 
-
-# 最终目标
-
-1、用node.js构建一个模拟外卖平台的后台系统。[地址在这里](https://github.com/bailicangdu/node-elm)
-
-2、利用 react-native 写出跨 Android 和 IOS 的原生APP版本。[地址在这里](https://github.com/bailicangdu/React-Native-elm)
-
-3、如果时间来的及，会出一卖家版本。
-
-所以我的目的是构建一个横跨前后端，移动IOS、Android的完整生态圈。
-
-。。。敬请期待
-
-
-
+  
 
 # 部分截图
 

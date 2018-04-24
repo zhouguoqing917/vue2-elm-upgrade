@@ -54,18 +54,7 @@ If you only do the front-end development, ignore this note.
 >  May be you can "follow" me, I will make more interstng projects.
 
 >  Development environment: macOS 10.12.3  Chrome 56  nodejs 6.10.0
-
->  Thanks for 辰妹子[@bailichen](https://github.com/bailichen)，to help complete the project，thank you🌹
-
->  If you hava some question,you can post the question in Issues, and if you find some solution or some improvement，please pull request. 👍
-
->  The project communication group：528447162(QQ)
-
->  Recommend a open source project about react and redux。[address](https://github.com/bailicangdu/react-pxq)
-
->  Recommend a other demo about vue2 and vuex，it's simple and good for newbie.[address](https://github.com/bailicangdu/vue2-happyfri)
-
-
+ 
 ## Dscription of the data interface 🤔
 
 ### 2017-05-30
@@ -75,12 +64,9 @@ For some reason，previous interfaces could not be used, it made the project fai
 
 # Demo
 
-[click it](http://cangdu.org:8001/)（Preview with chroe phone mode please）
+[click it](http://127.0.0.1:8001/)（Preview with chroe phone mode please）
 
-### The mobile can scan the qr code in the below
-
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/ewm.png" width="250" height="250"/>
-
+ 
 
 
 # Features
@@ -126,19 +112,7 @@ For some reason，previous interfaces could not be used, it made the project fai
 
 6, The project was already finished, and have 45 pages.
 
-
-# Ultimate Goal
-
-1, Build a background system to simulate the delivery platform with node.js。[address](https://github.com/bailicangdu/node-elm)
-
-2, Use react-native to write native APP of Android and IOS。[地址在这里](https://github.com/bailicangdu/React-Native-elm)
-
-3、May be I will make a seller's version in the future.
-  
-  So my goal is to build a full ecosystem across the frontend , backend, IOS and Android.
-  
-  ...Waiting for me
-
+ 
 
 
 # Screenshot
